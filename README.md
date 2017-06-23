@@ -1,2 +1,2 @@
 # hello-world
-my first git hub repository
+Hi! I'm a front-end developer and designer.
